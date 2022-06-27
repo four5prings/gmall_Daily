@@ -15,7 +15,7 @@ public class GmallConstants {
     public static final String KAFKA_TOPIC_ORDER = "GMALL_ORDER";
 
     //事件主题
-    public static final String KAFKA_TOPIC_EVENT = "GAMLL_EVENT";
+    public static final String KAFKA_TOPIC_EVENT = "GMALL_EVENT";
 
     //预警需求索引名
     public static final String ES_ALERT_INDEXNAME = "gmall_coupon_alert";
